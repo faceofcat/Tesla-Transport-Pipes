@@ -1,0 +1,14 @@
+[{
+  "modid": "teslapipes",
+  "name": "Tesla Transport Pipes",
+  "description": "A mod that provides some transport pipes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "Face_of_Cat" ],
+  "credits": "The Forge and FML guys, Team Avion and my mom.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [ "tesla", "teslacorelib" ]
+}]
